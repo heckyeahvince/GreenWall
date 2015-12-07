@@ -11,32 +11,6 @@ faster and more difficult gradually each round.
 Playable executable available at
 https://play.google.com/store/apps/details?id=com.bulsy.greenwall
 
-## To submit
-
-https://classroom.github.com/assignment-invitations/14a3c9bb353d64f4c773ac2417e9b8d9
-
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/greenwall-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
- 
- ## Videocapture:
------------
-[![screenshot](screenshot_001.png)](https://youtu.be/dXm6x-KHLZo)
-
- 
 ## Clone
 
 ```shell
@@ -131,7 +105,7 @@ Total time: 2 mins 34.079 secs
 
 ```
 
-## INstall
+## Install
 ```shell
 $ adb devices
 List of devices attached 
